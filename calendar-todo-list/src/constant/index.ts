@@ -15,15 +15,15 @@ export enum ERoles {
 // export const ServerUrl =
 //  process.env.NODE_ENV === 'development'
 //    ? 'http://localhost:11150'
-//    : 'https://www.wangjiguahuzi.xyz:11150';
-export const ServerUrl = 'https://www.wangjiguahuzi.xyz:11150';
+//    : 'https://www.jianyunrili.cn:11150';
+export const ServerUrl = 'https://www.jianyunrili.cn:11150';
 
 export const Pages = Object.keys(Routers).reduce(
   (assum, current) => ({ ...assum, [current]: `/${Routers[current]}` }),
   { ...Routers },
 );
 
-export const ImageHost = 'https://www.wangjiguahuzi.xyz:11150/public/images';
+export const ImageHost = 'https://www.jianyunrili.cn:11150/public/images';
 
 export const genWeekOptions = (): DateOption[] => [
   { key: 'MON', source: 1, value: 1, view: t('周一') },
