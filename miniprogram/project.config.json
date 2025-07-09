@@ -39,7 +39,7 @@
 	},
 	"libVersion": "3.0.0",
 	"appid": "wx582fd5a0920beb62",
-	"TCMPPappid": "mp45991maeap3uf5",
+	"TCMPPappid": "mp2imcnkr2ou32ak",
 	"scripts": {
 		"beforeCompile": "",
 		"beforePreview": "",
@@ -68,6 +68,7 @@
 			}
 		]
 	},
+	"TCSASappid": "mp2imcnkr2ou32ak",
 	"condition": {
 		"plugin": {
 			"current": -1,
