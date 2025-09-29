@@ -2,7 +2,7 @@ import { i18n, lang } from '../../../../i18n/lang'
 import { log } from '../../../../util/util'
 
 const APPID = 'mp45991maeap3uf5'
-const BASEURL = 'https://tcmppplus.woyaojianfei.club'
+const BASEURL = 'https://miniprogram.tcsas-superapp.com'
 const types = ['default', 'primary', 'warn']
 const pageObject = {
   data: {

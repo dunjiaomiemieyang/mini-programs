@@ -10,7 +10,7 @@ Page({
           phoneNumber: '',
           emailAddress: '',
           appid: 'mpyzxqg4o9yzw5px',
-          baseUrl: 'https://tcmppplus.woyaojianfei.club',   // // Mini program backend service address
+          baseUrl: 'https://miniprogram.tcsas-superapp.com',   // // Mini program backend service address
      },
 
      bindchange(e) {
