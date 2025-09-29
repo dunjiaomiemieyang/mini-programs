@@ -6,9 +6,9 @@ var httpRequest = require('common/request.js');
 App({
      onLaunch: function (res) {
           this.globalData.noServer = (res.extendData || '').indexOf('noServer=1') !== -1
-          wx.setEnableDebug({
-               enableDebug: false
-          })
+          // wx.setEnableDebug({
+          //      enableDebug: false
+          // })
           var that = this;
           wx.getSystemInfo({
                success: function (res) {
