@@ -82,6 +82,7 @@
         "pages/page/page-scroll/page-scroll",
         "pages/page/get-wxml-node-info/get-wxml-node-info",
         "pages/page/intersection-observer/intersection-observer",
+        "pages/page/native-page/native-page",
         "pages/device/clipboard-data/clipboard-data",
         "pages/device/bluetooth/bluetooth",
         "pages/device/memory/memory",

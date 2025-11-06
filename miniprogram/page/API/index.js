@@ -109,6 +109,9 @@ Page({
         name: i18n['Interaction'],
         url: 'toast/toast'
       }, {
+        name: i18n['Page interaction'],
+        url: 'native-page/native-page'
+      }, {
         name: i18n['Navigation Bar'],
         url: 'navigation-bar/navigation-bar'
       }, {

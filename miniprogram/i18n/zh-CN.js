@@ -1531,5 +1531,9 @@ export default {
   vtabs14: '2020中国高校计算机大赛',
   vtabs15: '微信小程序应用开发赛',
   '昵称': '昵称',
-  '请输入昵称': '请输入昵称'
+  '请输入昵称': '请输入昵称',
+  'Page interaction': '页面交互',
+  'Simulated login': '模拟登录',
+  'Simulated payment': '模拟支付',
+  'Simulated enter Superapp page': '模拟进入Superapp页面'
 };
